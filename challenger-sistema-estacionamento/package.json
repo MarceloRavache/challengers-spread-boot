@@ -1,0 +1,17 @@
+{
+  "name": "challenger-sistema-estacionamento",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev:init":"tsx src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.0",
+    "@types/typescript": "^2.0.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "tsx": "^3.12.7"
+  }
+}
